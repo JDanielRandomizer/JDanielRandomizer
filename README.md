@@ -15,6 +15,7 @@ I love haxeflixel
   <summary>my games</summary>
             
   |  [One Night At Jubscleudo's](https://github.com/JDanielRandomizer/One-Night-at-Jubscleudo-s)
+  
   ‎|
   
   |  [simulador de FUMAR!](https://github.com/JDanielRandomizer/simulador-de-FUMAR)
@@ -26,6 +27,8 @@ I love haxeflixel
           
   |  [V.S. Joaquim](https://github.com/JDanielRandomizer/V.S-Joaquim)
         ‎ 
+  |
+  
 </details>
 
                
