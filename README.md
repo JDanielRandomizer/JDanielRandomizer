@@ -12,9 +12,9 @@ I love haxeflixel
 ⁽ᴵ ᵈᵒⁿ'ᵗ ˡⁱᵏᵉ ᵃⁿⁱᵐᵉ ᴮᵀᵂ⁾
 
 <details>
-  <summary>Favorite tools</summary>
+  <summary>my games</summary>
 
-  <a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=haxe,haxeflixel,lua,python,js,github,vscode"/>
-  </a>
+  
 </details>
+
+(stole the little thing above from my friend @guineapiguhh ;D)
