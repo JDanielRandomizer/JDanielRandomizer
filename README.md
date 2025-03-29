@@ -24,11 +24,7 @@ I love haxeflixel
 
 <details>
   <summary>my mods</summary>
-  
-  # (OLD!!) V.S. Joaquim
-    https://github.com/JDanielRandomizer/V.S-Joaquim
-
-    
+  # [(OLD!!) V.S. Joaquim](https://github.com/JDanielRandomizer/V.S-Joaquim)
 </details>
 
 
