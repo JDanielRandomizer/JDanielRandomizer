@@ -26,8 +26,11 @@ I love haxeflixel
   <summary>my mods</summary>
   
   # (OLD!!) V.S. Joaquim
-    [https://github.com/JDanielRandomizer/One-Night-at-Jubscleudo-s](https://github.com/JDanielRandomizer/V.S-Joaquim)
+    https://github.com/JDanielRandomizer/V.S-Joaquim
+
     
 </details>
+
+
 
 (stole the little thing above from my friend @guineapiguhh ;D)
