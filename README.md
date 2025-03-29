@@ -16,16 +16,16 @@ I love haxeflixel
 <details>
   <summary>my games</summary>
             
-  |  [One Night At Jubscleudo's](https://github.com/JDanielRandomizer/One-Night-at-Jubscleudo-s)
+  |  [# One Night At Jubscleudo's](https://github.com/JDanielRandomizer/One-Night-at-Jubscleudo-s)
   
-  |  [simulador de FUMAR!](https://github.com/JDanielRandomizer/simulador-de-FUMAR)
+  |  [# simulador de FUMAR!](https://github.com/JDanielRandomizer/simulador-de-FUMAR)
     ‎ 
 </details>
 
 <details>
   <summary>my mods</summary>
           
-  |  [V.S. Joaquim](https://github.com/JDanielRandomizer/V.S-Joaquim)
+  |  [# (OLD!!) V.S. Joaquim](https://github.com/JDanielRandomizer/V.S-Joaquim)
   
   
 </details>
