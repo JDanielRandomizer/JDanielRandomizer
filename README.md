@@ -10,3 +10,11 @@ I love haxeflixel
 ![image](https://github.com/user-attachments/assets/d3dc99e6-ecfc-44f9-a325-3db93d93fd72) 
 
 ⁽ᴵ ᵈᵒⁿ'ᵗ ˡⁱᵏᵉ ᵃⁿⁱᵐᵉ ᴮᵀᵂ⁾
+
+<details>
+  <summary>Favorite tools</summary>
+
+  <a href="https://skillicons.dev">
+  <img src="https://skillicons.dev/icons?i=haxe,haxeflixel,lua,python,js,github,vscode"/>
+  </a>
+</details>
