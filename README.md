@@ -13,8 +13,8 @@ I love haxeflixel
 
 <details>
   <summary>my games</summary>
-  # One Night At Jubscleudo
   
+  # One Night At Jubscleudo's
     https://github.com/JDanielRandomizer/One-Night-at-Jubscleudo-s
   
   # simulador de FUMAR!
