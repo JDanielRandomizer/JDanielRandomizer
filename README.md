@@ -33,4 +33,4 @@ I love haxeflixel
 
 
 
-(stole the little thing above from my friend @guineapiguhh ;D)
+(stole the little thing above from my friend [GuineaPigUuhh](https://github.com/GuineaPigUuhh) ;D)
