@@ -3,7 +3,8 @@
 ## my name is JDaniel Aleatorio (aka: Saulo Tolete, Varon37 or whatever other name I have)
 
 I make games and mod Friday Night Funkin'
-![image](https://github.com/user-attachments/assets/5330d801-322b-4c3a-a215-43f6641863b9)
+![image](https://github.com/user-attachments/assets/d7136dc8-e5d0-44a9-9d0b-f4a373a90e7c)
+
 
 I'm brazillian, and yes, I do like funk (how could I dislike "Faz striptease na minha cama"? The song is total fire 🔥🔥!)
 
