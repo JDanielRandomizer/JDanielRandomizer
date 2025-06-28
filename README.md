@@ -24,7 +24,7 @@ I love haxeflixel
 <details>
   <summary>my mods</summary>
 
-  |  [FNF': 20tão](https://github.com/JDanielRandomizer/20tao-Demo](https://github.com/JDanielRandomizer/20tao-patch-demo)
+  |  [FNF': 20tão](https://github.com/JDanielRandomizer/20tao-patch-demo)
 
                 
   |  [(OLD!!) V.S. Joaquim](https://github.com/JDanielRandomizer/V.S-Joaquim)
