@@ -36,7 +36,7 @@ I love haxeflixel
 <details>
   <summary>status</summary>
   
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jdanielrandomz&layout=donut)](https://github.com/anuraghazra/github-readme-stats)
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jdanielrandomizer&layout=donut)](https://github.com/anuraghazra/github-readme-stats)
     ‎ 
 </details>
 
