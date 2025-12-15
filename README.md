@@ -7,7 +7,7 @@ I make games and mod Friday Night Funkin'
 
 
 I'm brazillian, and yes, I do like funk (how could I dislike "Faz striptease na minha cama"? The song is total fire 🔥🔥!)
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jdanielrandomizer)](https://github.com/anuraghazra/github-readme-stats)
+
 
 I love haxeflixel
 
@@ -31,6 +31,13 @@ I love haxeflixel
   |  [(OLD!!) V.S. Joaquim](https://github.com/JDanielRandomizer/V.S-Joaquim)
   
   
+</details>
+
+<details>
+  <summary>status</summary>
+  
+  [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jdanielrandomizer)](https://github.com/anuraghazra/github-readme-stats)
+    ‎ 
 </details>
 
                
