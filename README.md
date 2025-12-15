@@ -36,7 +36,7 @@ I love haxeflixel
 <details>
   <summary>status</summary>
   
-  [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jdanielrandomizer)](https://github.com/anuraghazra/github-readme-stats)
+  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jdanielrandomizer&show_icons=true)
     ‎ 
 </details>
 
