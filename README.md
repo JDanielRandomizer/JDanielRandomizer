@@ -9,7 +9,7 @@ I make games and mod Friday Night Funkin'
 I'm brazillian, and yes, I do like funk (how could I dislike "Faz striptease na minha cama"? The song is total fire 🔥🔥!)
 
 
-I love haxeflixel
+I love [![coisas](https://skillicons.dev/icons?i=haxeflixel,godot,gml,vscode,&theme=dark)](https://skillicons.dev)
 
 ![image](https://github.com/user-attachments/assets/d3dc99e6-ecfc-44f9-a325-3db93d93fd72) 
 
@@ -32,15 +32,5 @@ I love haxeflixel
   
   
 </details>
-
-<details>
-  <summary>status</summary>
-  
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jdanielrandomizer&layout=donut)](https://github.com/anuraghazra/github-readme-stats)
-    ‎ 
-</details>
-
-               
-‎ 
 
 (stole the little thing above from my friend [GuineaPigUuhh](https://github.com/GuineaPigUuhh) ;D)
