@@ -1,5 +1,3 @@
-𝑨𝑨𝑨𝑨𝑨𝑨𝑨𝑨𝑨𝑨𝑨𝑨𝑨𝑨𝑨𝑨𝑨𝑨𝑨𝑨𝑨𝑨𝑨𝑨𝑨𝑨𝑨𝑨𝑨𝑨
-
 ## Meu nome é JDaniel Aleatorio (Saulo tolete, Varon37, JDaniel Developer)
 
 Eu faço uns jogos e mods de FnF'
@@ -7,8 +5,6 @@ Eu faço uns jogos e mods de FnF'
 
 Eu mexo com essas linguagenzinhas aí (haxeflixel sendo a mais insana e legal do mundo lkepoiwhjfgçoiushgçoiush):
 [![coisas](https://skillicons.dev/icons?i=haxeflixel,godot,lua,vscode,&theme=dark)](https://skillicons.dev)
-
-![image](https://github.com/user-attachments/assets/d3dc99e6-ecfc-44f9-a325-3db93d93fd72) 
 
 <details>
   <summary>Meus Jogos</summary>
@@ -28,4 +24,4 @@ Eu mexo com essas linguagenzinhas aí (haxeflixel sendo a mais insana e legal do
   
 </details>
 
-Roubei essas categorias do meu maninho [GuineaPigUuhh](https://github.com/GuineaPigUuhh) ;D)
+(Roubei essas categorias do meu maninho [GuineaPigUuhh](https://github.com/GuineaPigUuhh) ;D)
