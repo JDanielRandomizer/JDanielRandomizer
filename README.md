@@ -1,29 +1,24 @@
 𝑨𝑨𝑨𝑨𝑨𝑨𝑨𝑨𝑨𝑨𝑨𝑨𝑨𝑨𝑨𝑨𝑨𝑨𝑨𝑨𝑨𝑨𝑨𝑨𝑨𝑨𝑨𝑨𝑨𝑨
 
-## my name is JDaniel Aleatorio (aka: Saulo Tolete, Varon37 or whatever other name I have)
+## Meu nome é JDaniel Aleatorio (Saulo tolete, Varon37, JDaniel Developer)
 
-I make games and mod Friday Night Funkin'
+Eu faço uns jogos e mods de FnF'
 ![image](https://github.com/user-attachments/assets/d7136dc8-e5d0-44a9-9d0b-f4a373a90e7c)
 
-
-I'm brazillian, and yes, I do like funk (how could I dislike "Faz striptease na minha cama"? The song is total fire 🔥🔥!)
-
-
-I love [![coisas](https://skillicons.dev/icons?i=haxeflixel,godot,gml,vscode,&theme=dark)](https://skillicons.dev)
+Eu mexo com essas linguagenzinhas aí (haxeflixel sendo a mais insana e legal do mundo lkepoiwhjfgçoiushgçoiush):
+[![coisas](https://skillicons.dev/icons?i=haxeflixel,godot,lua,vscode,&theme=dark)](https://skillicons.dev)
 
 ![image](https://github.com/user-attachments/assets/d3dc99e6-ecfc-44f9-a325-3db93d93fd72) 
 
-⁽ᴵ ᵈᵒⁿ'ᵗ ˡⁱᵏᵉ ᵃⁿⁱᵐᵉ ᴮᵀᵂ⁾
-
 <details>
-  <summary>my games</summary>
+  <summary>Meus Jogos</summary>
   
   |  [simulador de FUMAR!](https://github.com/JDanielRandomizer/simulador-de-FUMAR)
     ‎ 
 </details>
 
 <details>
-  <summary>my mods</summary>
+  <summary>Meus Mods</summary>
 
   |  [FNF': 20tão](https://github.com/JDanielRandomizer/20tao-patch-demo)
 
@@ -33,4 +28,4 @@ I love [![coisas](https://skillicons.dev/icons?i=haxeflixel,godot,gml,vscode,&th
   
 </details>
 
-(stole the little thing above from my friend [GuineaPigUuhh](https://github.com/GuineaPigUuhh) ;D)
+Roubei essas categorias do meu maninho [GuineaPigUuhh](https://github.com/GuineaPigUuhh) ;D)
